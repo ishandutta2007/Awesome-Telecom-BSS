@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Amdocs](https://www.amdocs.com/)**  
-
-  Market-leading end-to-end BSS portfolio for Tier-1 operators, covering revenue management, customer experience, catalog, and cloud-native monetization.
-
-
-
-- **[Netcracker](https://www.netcracker.com/)**  
-
-  Cloud-native Digital BSS/OSS suite focused on monetization, customer experience, and partner ecosystem management for large carriers.
-
-
-
-- **[CSG](https://www.csgi.com/)**  
-
-  Revenue management and monetization platform strong in real-time billing, payments, and digital/MVNO environments, particularly in North America.
-
-
-
-- **[Optiva](https://www.optiva.com/)**  
-
-  Cloud-native BSS platform specialized in real-time charging, billing, and digital monetization for modern telcos and MVNOs.
-
-
-
-- **[Oracle Communications](https://www.oracle.com/industries/communications/)**  
-
-  Carrier-grade Billing and Revenue Management (BRM) suite supporting high-scale charging, mediation, invoicing, and 5G monetization.
-
-
-
-- **[Ericsson Billing / Digital BSS](https://www.ericsson.com/)**  
-
-  Converged charging and billing solutions tightly integrated with network capabilities for 5G, IoT, and multi-service monetization.
-
-
-
-- **[Comarch Telecom](https://www.comarch.com/)**  
-
-  Modular BSS and OSS platform offering billing, CRM, product catalog, and operations support for European and global operators.
-
-
-
-- **[Hansen Technologies](https://www.hansen.com/)**  
-
-  Billing, customer care, and revenue management solutions for telecom, utilities, and communications providers.
-
-
-
-- **[Sterlite Technologies](https://www.stl.tech/)**  
-
-  Digital BSS and network solutions supporting telecom operators with monetization and transformation capabilities.
-
-
-
-- **[DigitalRoute](https://www.digitalroute.com/)**  
-
-  Usage data management and mediation platform that collects, processes, and monetizes usage events for billing and analytics.
+| Product | Description | Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Amdocs](https://www.amdocs.com/)** | Market-leading end-to-end BSS portfolio for Tier-1 operators, covering revenue management, customer experience, catalog, and cloud-native monetization. | Request for Quote (Enterprise custom contracts, contact sales) | No free trial available; custom demo upon request |
+| **[Netcracker](https://www.netcracker.com/)** | Cloud-native Digital BSS/OSS suite focused on monetization, customer experience, and partner ecosystem management for large carriers. | Request for Quote (Enterprise custom licensing, contact sales) | No free trial available; custom demo upon request |
+| **[CSG](https://www.csgi.com/)** | Revenue management and monetization platform strong in real-time billing, payments, and digital/MVNO environments, particularly in North America. | Request for Quote (Enterprise custom pricing, contact sales) | No free trial available; live demo upon request |
+| **[Optiva](https://www.optiva.com/)** | Cloud-native BSS platform specialized in real-time charging, billing, and digital monetization for modern telcos and MVNOs. | Request for Quote (Enterprise custom pricing, contact sales) | No free trial available; custom demo upon request |
+| **[Oracle Communications](https://www.oracle.com/industries/communications/)** | Carrier-grade Billing and Revenue Management (BRM) suite supporting high-scale charging, mediation, invoicing, and 5G monetization. | Request for Quote (Enterprise license negotiation, contact sales) | No free trial available; OCI free tier available for cloud infrastructure |
+| **[Ericsson Billing / Digital BSS](https://www.ericsson.com/)** | Converged charging and billing solutions tightly integrated with network capabilities for 5G, IoT, and multi-service monetization. | Request for Quote (Modular carrier pricing, contact sales) | No free trial available; consultation upon request |
+| **[Comarch Telecom](https://www.comarch.com/)** | Modular BSS and OSS platform offering billing, CRM, product catalog, and operations support for European and global operators. | Request for Quote (Scalable pay-as-you-grow pricing, contact sales) | No free trial available; custom demo upon request |
+| **[Hansen Technologies](https://www.hansen.com/)** | Billing, customer care, and revenue management solutions for telecom, utilities, and communications providers. | Request for Quote (Enterprise custom contracts, contact sales) | No free trial available; live demo upon request |
+| **[Sterlite Technologies](https://www.stl.tech/)** | Digital BSS and network solutions supporting telecom operators with monetization and transformation capabilities. | Request for Quote (Enterprise custom pricing, contact sales) | No free trial available; demonstration upon request |
+| **[DigitalRoute](https://www.digitalroute.com/)** | Usage data management and mediation platform that collects, processes, and monetizes usage events for billing and analytics. | $1,750 USD/month starting tier (Salesforce AppExchange integration); Enterprise platform by custom quote | 3-month trial available for select Early Adopter programs; no standard free trial |
 
 
 
@@ -211,3 +166,4 @@ Star the repo if you find it useful!
 **Made for telecom operators, MVNOs, billing engineers, system integrators, and communications technologists.**
 
 Let's make telecom BSS more open, flexible, and operator-controlled.
+
